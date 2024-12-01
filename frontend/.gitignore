@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+
+# Ignore build files
+frontend/build/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
