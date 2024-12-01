@@ -1,0 +1,417 @@
+
+
+J Nanopart Res (2024) 26:
+https://doi.org/10.1007/s11051-023-05905-
+RESEARCH PAPER
+Magnesium dendrite growth during electrodeposition
+in conditioned Mg(TFSI) /AlCl /MgCl /DME electrolyte
+2 3 
+Lin Wang · Peter Chun Pang Li · Roxana Family ·
+Eric Detsi
+Received: 24 July 2023 / Accepted: 26 November 2023 / Published online: 19 December 
+© The Author(s), under exclusive licence to Springer Nature B.V. 
+Abstract Mg-ion batteries (MIBs) have emerged conditioned MACT electrolyte during electrodeposi-
+as a promising alternative to Li-ion batteries (LIBs) tion.
+
+A symmetric cell configuration, Mg|MACT|Mg,
+since Mg metal is more abundant, cheaper, and safer was utilized to investigate the dendrite formation at
+than Li metal. However, the growth of Mg dendrites different current densities.
+
+The morphology, chemi-
+on metal Mg anodes is still very controversial, while cal composition, and crystal structure of the depo-
+several studies claim that Mg dendrites do not form sition products were characterized using scanning
+on Mg metal anodes; other studies claim the opposite. electron microscopy (SEM), energy dispersive X-ray
+Recently, a new class of MIB electrolytes which we spectroscopy (EDS), and X-ray diffraction (XRD).
+
+refer to here as MACT has received extensive atten- Our findings demonstrate the growth of Mg dendrites
+tion due to its higher ionic conductivity and wider within the MACT electrolyte. We observed that the
+potential window.
+
+MACT is made of magnesium morphology of these dendrites undergoes evolution
+bis(trifluoromethanesulfonyl)imide (Mg(TFSI) ), with varying the electrodeposition current density,
+
+aluminum chloride (AlCl ), and magnesium chloride transitioning between mossy clusters, granular struc-
+
+(MgCl ) in 1,2-dimethoxyethane (DME). Previous tures, and porous mesh formations in a size range
+
+studies have claimed that Mg dendrites do not grow in from approximately 10 to 125 μm.
+
+These results sig-
+conditioned MACT electrolytes. This article explores nificantly enhance our understanding of Mg dendrite
+the formation of magnesium (Mg) dendrites in a formation in MIBs. Keywords Mg-ion battery · Mg dendrites · Plating/
+This manuscript is part of the Special Collection on stripping · Morphology · Nanoscale interfaces ·
+“Nanomanufacturing”
+Energy storage
+Supplementary Information The online version
+contains supplementary material available at https:// doi. org/ 10.
+
+1007/ s11051- 023- 05905-0. Introduction
+*
+L. Wang · P. C. P. Li · R. Family · E. Detsi ( )
+Mg-ion batteries (MIBs) have attracted considerable
+Department of Materials Science & Engineering,
+attention as a promising alternative to Li-ion bat-
+University of Pennsylvania, Philadelphia, PA 19104, USA
+e-mail: detsi@seas.upenn.edu teries (LIBs) because Mg metal is more abundant,
+cheaper, and safer than Li metal [1–7].
+
+The use of Mg
+P. C. P. Li
+metal as a practical anode in MIBs is possible only
+Department of Physics and Astronomy, University
+if Mg dendrites do not grow during (dis)charging,
+of Pennsylvania, Philadelphia, PA 19104, USA
+Vol. : (0123456789)
+1 
+1 Page 2 of 7 J Nanopart Res (2024) 26:
+since these dendrites can penetrate through the sepa- the morphology of Mg dendrites is influenced by the
+rator and come into direct contact with the cathode, applied electrodeposition current density.
+
+potentially causing short-circuits and safety hazards
+[8–10].
+
+However, whether Mg dendrites will form
+remains highly controversial: (i) While several early Experimental
+studies including in situ scanning tunneling micros-
+copy (in situ STM) studies [11], in situ atomic force Materials and chemicals
+microscopy (in situ AFM) analysis combined with
+optical imaging [12], and theoretical simulation [13, A 0.1-mm thick magnesium (Mg) foil with a purity
+14], suggested that Mg dendrites do not grow; new of 99.9% was purchased from MTI Corporation,
+studies suggested the opposite.
+
+For example, Baner- serving as the working, counter, and reference elec-
+jee’s group demonstrated the growth of Mg dendrites trodes. Magnesium (II) bis(trifluoromethanesulfonyl)
+during electrodeposition in 0.5 M methylmagnesium imide—Mg(TFSI) —with 99.5% purity was pur-
+
+chloride (MeMgCl) electrolyte in tetrahydrofuran chased from Solvionic and dried overnight at 150 °C
+(THF) electrolyte [15], and in 0.25 M, 0.5 M, 1.0 to remove residual moisture.
+
+Aluminum trichloride
+M, and 1.5 M MeMgCl in THF [16]; Zhang’s group (AlCl , 99.985%) and magnesium chloride ( MgCl ,
+3 
+showed that Mg dendrites form in 0.3 M all-phenyl- 99.99%) were purchased from Alfa-Aesar and used
+complex (APC) electrolyte [17]; Lim’s group also without further purification. Anhydrous 1, 2-dimeth-
+visualized the growth of Mg dendrites in APC elec- oxyethane (DME, 99.5%) was purchased from Sigma-
+trolytes [18].
+
+(ii) Recently, MIB electrolytes based on Aldrich and dried for 72 hours using activated molec-
+magnesium bis(trifluoromethanesulfonyl)imide salt— ular sieves with a pore size of 4 Å for 72 hours. All
+Mg(TFSI) —have received extensive attention due materials and chemicals were stored in an argon-filled
+
+to their higher ionic conductivity and wider potential glovebox (< 0.1 ppm H O and O ). 2 
+window [8, 19–24].
+
+While Choi’s group first claimed
+that Mg dendrites do not form in Mg(TFSI) -based Electrolyte and cell preparation
+
+electrolytes such as 0.3 M Mg(TFSI) in glyme/
+
+diglyme [19]; Giffin’s group observed the growth MACT electrolyte with a concentration of 0.25 M is
+of Mg dendrites in 0.3 M Mg(TFSI) in glyme [8]. composed of 0.25 M Mg(TFSI) , 0.25 M AlCl , and
+2 2 
+Meanwhile, many other studies claimed that Mg den- 0.5 M M gCl with a molar ratio of 1:1:2 in DME.
+
+drites do not form in hybrid Mg(TFSI) /aluminum To prepare 10 mL of 0.25 M MACT electrolyte,
+
+chloride (AlCl )/magnesium chloride ( MgCl ) in 1, 0.005 mol (476 mg) of M gCl was added to 10 mL
+3 2 
+2-dimethoxyethane (DME) electrolytes [21–24]. The of dried DME solvent in an argon-filled glovebox. hybrid Mg(TFSI) /AlCl /MgCl /DME is abbreviated Then 0.0025 mol (333 mg) of AlCl was added in a
+2 3 2 
+in this article as MACT. round bottom flask with a rubber stopper on.
+
+About
+The aim of this study is to verify whether Mg 0.5 M MgCl in DME was added to the round bot-
+
+dendrites will form in a conditioned MACT electro- tom flask drop by drop. Then, 0.0025 mol (1.46 g) of
+lyte. With this aim in mind, we electrodeposited Mg Mg(TFSI) was added while stirring. The electrolyte
+
+in galvanostatic mode at various current densities was stirred overnight to mix fully.
+
+The MACT elec-
+using a symmetric Mg|MACT|Mg cell, visualized and trolyte was then conditioned before use by running
+recorded the deposition products.
+
+In our study, we cyclic voltammetry (CV) experiments at the scan rate
+employed scanning electron microscopy (SEM) for of 1 mV s −1, and the voltage window was from −
+visualizing the morphology, energy dispersive X-ray V to 1 V using a Mg|MACT|Mg cell configuration
+spectroscopy (EDS) for determining the elemental with a polished Mg foil as the working electrode, and
+composition, and X-ray diffraction (XRD) for ana- another polished Mg foil as the counter and reference
+lyzing the crystalline phases of the deposited prod- electrodes until stable CV curves were achieved [18,
+ucts across varying current densities.
+
+Our findings 21]. The MACT electrolyte performance is improved
+present compelling evidence of dendrite formation after conditioning through the removal of possible
+on Mg metal anodes within conditioned MACT elec- impurities [21]. In Fig. S1, we present the selected
+trolytes. Moreover, our results strongly indicate that CV curves during the conditioning process of MACT
+Vol:. (1234567890)
+1 
+J Nanopart Res (2024) 26:1 Page 3 of 7 
+electrolyte. These CV scans, conducted at a scan rate and 15 mA.
+
+The measurements were taken with a step
+of 1 mV s −1 within the potential range of −0.8 to 2.0 size of 0.01° and a scanning speed of 5°/min. V, clearly demonstrate the improved reversibility of
+the Mg deposition process over consecutive cycles,
+from light blue to dark blue curves. This enhance- Results and discussion
+ment is evident through reduced overpotentials and
+higher cycling efficiencies.
+
+The Mg|MACT|Mg sym- To investigate the formation of Mg dendrites in the
+metric cell (with 0.25 M-conditioned MACT elec- MACT electrolyte, we conducted electrodeposition
+trolyte) was used for subsequent experiments. A experiments using a symmetric Mg|MACT|Mg cell. schematic of this cell is shown in Fig. 1 a, with the The MACT electrolyte was properly conditioned for
+corresponding accurate picture shown in Fig. 1 b. The the study.
+
+The electrodeposition of Mg was carried
+distance between two Mg foils is approximately 1 out at various current densities: 5, 6, 7, 8, 9, and 
+cm. All experiments are conducted in an argon-filled mA cm−2. This approach allowed us to determine
+glovebox with residual O and H O below 0.1 ppm. whether Mg dendrites were formed in the MACT
+2 
+electrolyte under different current density conditions.
+
+Electrochemical characterization The areal capacity achieved at each of these cur-
+rent densities is maintained constant at 10 m Ah cm−
+Electrochemical tests were performed using a Bio- by controlling the electrodeposition time. The cor-
+Logic VMP-300 multichannel potentiostat. The responding voltage vs. capacity plots for all current
+Mg|MACT|Mg symmetric cell was cycled between densities are shown in Fig. 2 a.
+
+The relatively high
+−3 and 1 V in galvanostatic mode using different negative voltage is associated with the high overpo-
+areal current densities while keeping the areal capac- tential needed to reduce Mg ions ( Mg2+) to metal Mg
+ity constant by varying the cycling time. onto the working electrode through the following half
+reaction: Mg2+ + 2e− ➔ Mg, with the reverse half
+Material characterization reaction (i.e., Mg ➔ Mg2+ +2e−) taking place on the
+counter electrode.
+
+It is a striking phenomenon that the
+Scanning electron microscopy (SEM) images were overpotential at 5 mA cm−2 (pink curve in Fig. 2 a)
+captured using a JEOL 7500F high-resolution scan- is higher than others. A possible explanation is that
+ning electron microscope. For morphology and com- the system initially requires high activation energy to
+positional analysis, energy dispersive X-ray spectros- grow Mg dendrite onto the Mg foil electrode.
+
+Once
+copy (EDS) was performed using an Octane Elect a “layer” of Mg dendrite is deposited on the Mg foil
+Super detector. X-ray diffraction (XRD) patterns were electrode, subsequent Mg dendrites are deposited on
+obtained on a Rigaku Miniflex powder diffractometer, top of Mg dendrites and this may require lower acti-
+equipped with a Cu X-ray source operating at 40 kV vation energy. In other words, it may be kinetically
+Fig. 1 (a) Schematic of the
+electrochemical symmetric
+cell setup.
+
+At the Mg foil
+working electrode, Mg ions
+accept electrons and are
+reduced to metal Mg (left
+side, purple). At the Mg
+foil counter and reference
+electrode, metal Mg lose
+electrons to become Mg
+ions (right side, yellow). (b) Image of the actual
+cell. The cell operates in an
+argon environment
+Vol. : (0123456789)
+1 
+1 Page 4 of 7 J Nanopart Res (2024) 26:
+Fig. 2 (a) Voltage vs. areal capacity curves for all current densities.
+
+(b) Images of the front and back sides of the Mg foil working
+electrodes at different current densities
+easier to grow Mg dendrites on top of Mg dendrite The zoomed-in image in Fig. 3 d showed a thicker
+than growing Mg dendrites on top of Mg foil. At nano-sized lamellae structure. At a current density of
+low current densities, Mg dendrites are grown on 7 mA cm−2, the dendrites displayed an interconnected
+Mg foil.
+
+At high current densities, Mg dendrites are granular morphology with grain sizes of approxi-
+initially grown on the Mg foil electrode and further mately 10 μm, as depicted in Fig. 3 e and f. At an
+on Mg dendrites.
+
+The formation of Mg deposits onto applied current density of 8 mA cm−2, the mossy-like
+the working electrode during electrodeposition was dendrites reemerged, characterized by a diminished
+recorded for all current densities (see supporting vid- cluster diameter of approximately 75 μm (Fig. 3g). eos S1, S2, S3, S4, S5, S6). Fig.
+
+2 b displays repre- Additionally, the presence of lamellar structures with
+sentative images of the front and back sides of the Mg a nano-sized thickness was observed (Fig. 3h). At
+foil working electrodes obtained after electrodeposi- 9 mA cm−2, the dendrites exhibit the porous mesh
+tion at various current densities. A black deposit can structure in Fig. 3 i and j. Finally, at 10 mA cm−2,
+be observed on each working electrode.
+
+The mor- the dendrites appear as interconnected islands with
+phology of these deposits was investigated by SEM significant surface undulations. The SEM results sug-
+(Fig. 3). At 5 mA c m−2, mossy-like deposits were gest that the morphology of Mg dendrites seems to be
+observed at low magnification (Fig. 3a). The diam- impacted by the electrodeposition current density. eter of each mossy cluster was ≈125 μm.
+
+This mossy- Next, the chemical composition and the crystal
+like morphology aligns well with the morphology of structure of the Mg deposition products were inves-
+the Mg dendrites found by Ding et al., which simi- tigated at all current densities using EDS and XRD. larly observed the presence of dendrites on Mg metal Typical EDS and XRD data for Mg deposits formed
+with Mg(TFSI) in glyme electrolyte [8]. Upon closer at 10 mA cm−2 are shown in Fig. 4.
+
+Note that because
+
+inspection at a higher magnification (Fig. 3b), we EDS and XRD data were similar in all current densi-
+found that the mossy-like dendrites exhibit lamellar ties, here, we only show the XRD and EDS obtained
+structures with nano-sized thickness. At 6 mA cm−2, at 10 mA cm−2. In Fig. 4 a, the EDS spectrum of the
+the dendrites are still mossy-like, but with a smaller Mg deposits reveals the presence of C, O, F, S, Al, Cl,
+cluster diameter of ≈100 μm, as shown in Fig.
+
+3 c. and Mg signals. The Al and Cl signals were attributed
+Vol:. (1234567890)
+1 
+J Nanopart Res (2024) 26:1 Page 5 of 7 
+Fig. 3 SEM images of Mg dendrites formed on Mg working electrodes at a and b 5 mA cm−2, (c, d) 6 mA cm−2, (e, f) 7 mA cm−2,
+(g, h) 8 mA cm−2, (i, j) 9 mA cm−2, and (k, l) 10 mA c m−2, respectively
+to AlCl salt from the MACT electrolyte.
+
+The C, O, F, and MgS within the deposited products serves as
+
+and S signals were ascribed to Mg (TFSI) salt from compelling evidence for the presence of a solid inter-
+
+the MACT. In Fig. 4 b, the XRD analysis shows the facial layer. This finding is supported by previous
+presence of Mg (PDF#35-0821), M gCl (PDF#03- studies [20, 22].
+
+However, it should be noted that the
+
+0854), AlCl (PDF#01-1133), MgO (PDF#87-0651), XRD data of all deposited products could not be fully
+
+MgF (PDF#70-2269), MgS (PDF#75-0897), and fitted, likely due to the relatively lower crystallinity of
+MgCO (PDF#86-0175). The identification of MgF certain deposition products. Vol. : (0123456789)
+1 
+1 Page 6 of 7 J Nanopart Res (2024) 26:
+Fig.
+
+4 Typical a EDS spectra and b XRD pattern of the deposition products formed at 10 mA cm−
+Conclusion aiming to develop strategies to mitigate or regulate
+dendrite formation in Mg-based systems. This study successfully demonstrates the formation
+and growth of Mg dendrites in a conditioned MACT Acknowledgements The authors are thankful to Yihui Zhang
+for collecting scanning electron microscope images. electrolyte through electrodeposition at varying cur-
+rent densities.
+
+The morphology, chemical composi-
+Funding This work received financial support from the
+tion, and crystal structure of the resulting Mg den-
+National Science Foundation (NSF), Division of Materi-
+drite deposits were thoroughly investigated using als Research (DMR), Future Manufacturing Research Grant
+SEM, EDS, and XRD techniques. Our findings #2134715.
+
+This work was carried out in part at the Singh
+Center for Nanotechnology, which is supported by the NSF
+indicate that the morphologies of the dendrites are
+National Nanotechnology Coordinated Infrastructure Pro-
+directly influenced by the employed current density
+gram under grant NNCI-2025608. Additional support to the
+during electrodeposition.
+
+By carefully analyzing Nanoscale Characterization Facility at the Singh Center has
+the results, we observed distinct variations in den- been provided by the Laboratory for Research on the Structure
+of Matter (MRSEC) supported by the National Science Foun-
+drite structures corresponding to different current
+dation (DMR-1720530). densities. This discovery elucidates the intricate
+relationship between electrodeposition parameters Compliance with ethical standards
+and resulting dendrite formations.
+
+The utilization
+Conflict of interest The authors declare no competing inter-
+of SEM, EDS, and XRD allowed for comprehensive
+ests. characterization of the Mg dendrite deposits, pro-
+viding valuable insights into their properties. These
+findings have significant implications for the devel-
+opment and optimization of electrolyte and elec-
+References
+trodeposition processes in Mg-based electrochemi-
+cal systems. In conclusion, this research expands
+1.
+
+Yoo HD, Shterenberg I, Gofer Y et al (2013) Mg recharge-
+our understanding of Mg dendrite formation and able batteries: an on-going challenge. Energy Environ Sci
+growth, emphasizing the crucial role of controlling 6:2265–2279. https:// doi. org/ 10. 1039/ c3ee4 0871j
+2. Singh N, Arthur TS, Tutusaus O et al (2018) Achiev-
+current density in achieving desired dendrite mor-
+ing high cycling rates via in situ generation of active
+phologies.
+
+Further investigations should explore
+nanocomposite metal anodes. ACS Appl Energy Mater
+additional factors that may impact dendrite growth, 1:4651–4661. https:// doi. org/ 10. 1021/ acsaem. 8b007 
+Vol:. (1234567890)
+1 
+J Nanopart Res (2024) 26:1 Page 7 of 7 
+3. Crowther O, West AC (2008) Effect of electrolyte com- Energy Lett 4:375–376. https:// doi. org/ 10. 1021/ acsen
+position on lithium dendrite growth. J Electrochem Soc ergyl ett. 8b024 
+155:806–811. https:// doi. org/ 10. 1149/1.
+
+29694 24 16. Davidson R, Verma A, Santos D et al (2020) Mapping
+4. Muldoon J, Bucur CB, Gregory T (2014) Quest for non- mechanisms and growth regimes of magnesium elec-
+aqueous multivalent secondary batteries: magnesium and trodeposition at high current densities. Mater Horizons
+beyond. Chem Rev 114:11683–11720. https:// doi. org/ 10. 7:843–854. https:// doi. org/ 10. 1039/ c9mh0 1367a
+1021/ cr500 049y 17. Zhao Y, Zhang X, Xiao J et al (2022) Effect of Mg cation
+5.
+
+Wang L, Welborn SS, Kumar H et al (2019) High-Rate diffusion coefficient on Mg dendrite formation. ACS Appl
+and long cycle-life alloy-type magnesium-ion battery Mater Interfaces 14:6499–6506. https:// doi. org/ 10. 1021/
+anode enabled through (de)magnesiation-induced near- acsami. 1c185 
+room-temperature solid–liquid phase transformation. Adv 18. Kwak JH, Jeoun Y, Oh SH et al (2022) Operando visu-
+Energy Mater 9:1–7. https:// doi. org/ 10. 1002/ aenm.
+
+20190 alization of morphological evolution in Mg metal anode:
+2086 insight into dendrite suppression for stable Mg metal bat-
+6. Niu J, Gao H, Ma W et al (2018) Dual phase enhanced teries. ACS Energy Lett 7:162–170. https:// doi. org/ 10.
+superior electrochemical performance of nanoporous 1021/ acsen ergyl ett. 1c024 
+bismuth-tin alloy anodes for magnesium-ion batteries. 19. Ha SY, Lee YW, Woo SW et al (2014) Magnesium(II)
+Energy Storage Mater 14:351–360. https:// doi.
+
+org/ 10. bis(trifluoromethane sulfonyl) imide-based electrolytes
+1016/j. ensm. 2018. 05. 023 with wide electrochemical windows for rechargeable
+7. Wang L, Weker JN, Family R et al (2023) Morphology magnesium batteries. ACS Appl Mater Interfaces 6:4063–
+evolution in self-healing liquid-gallium-based Mg-ion bat- 4073. https:// doi. org/ 10. 1021/ am405 619v
+tery anode. ACS Energy Lett:4932–4940. https:// doi. org/ 20. Eaves-Rathert J, Moyer K, Zohair M, Pint CL (2020)
+10. 1021/ ACSEN ERGYL ETT.
+
+3C017 61 Kinetic- versus diffusion-driven three-dimensional growth
+8. Ding MS, Diemant T, Behm RJ et al (2018) Dendrite in magnesium metal battery anodes. Joule 4:1324–1336. growth in Mg metal cells containing Mg(TFSI) 2/glyme https:// doi. org/ 10. 1016/j. joule. 2020. 05. 
+electrolytes. J Electrochem Soc 165:A1983–A1990. 21. Shterenberg I, Salama M, Yoo HD et al (2015) Evaluation
+https:// doi. org/ 10. 1149/2. 14718 09jes of (CF 3 SO 2 ) 2 N − (TFSI) based electrolyte solutions
+9.
+
+Niu J, Song M, Zhang Y, Zhang Z (2021) Dealloying for Mg batteries. J Electrochem Soc 162:A7118–A7128. induced nanoporosity evolution of less noble metals in https:// doi. org/ 10. 1149/2. 01615 13jes
+Mg ion batteries. J Magnes Alloy 9:2122–2132. https:// 22. Yang L, Yang C, Chen Y et al (2021) Hybrid MgCl2/
+doi. org/ 10. 1016/j. jma. 2021. 04. 003 AlCl3/Mg(TFSI)2 electrolytes in DME enabling high-rate
+10. Niu J, Zhang Z, Aurbach D (2020) Alloy anode materi- rechargeable Mg batteries.
+
+ACS Appl Mater Interfaces
+als for rechargeable Mg ion batteries. Adv Energy Mater 13:30712–30721. https:// doi. org/ 10. 1021/ acsami. 1c075 
+10:2000697. https:// doi. org/ 10. 1002/ AENM. 20200 0697 23. He Y, Li Q, Yang L et al (2019) Electrochemical-condi-
+11.
+
+Aurbach D, Cohen Y, Moshkovich M (2001) The study of tioning-free and water-resistant hybrid AlCl 3 /MgCl 2 /
+reversible magnesium deposition by in situ scanning tun- Mg(TFSI) 2 electrolytes for rechargeable magnesium bat-
+neling microscopy. Electrochem Solid-State Lett 4:A113. teries. Angew Chem 131:7697–7701. https:// doi. org/ 10.
+https:// doi. org/ 10. 1149/1. 13798 28/ XML 1002/ ange. 20181 
+12. Hu XC, Shi Y, Lang SY et al (2018) Direct insights into 24.
+
+Gao T, Hou S, Wang F et al (2017) Reversible S0/MgSx
+the electrochemical processes at anode/electrolyte inter- redox chemistry in a MgTFSI2/MgCl2/DME electrolyte
+faces in magnesium-sulfur batteries. Nano Energy 49:453– for rechargeable Mg/S batteries. Angew Chem Int Ed
+459. https:// doi. org/ 10. 1016/J. NANOEN. 2018. 04. 066 56:13526–
+13.
+
+Hagopian A, Kopač D, Filhol JS, Kopač Lautar A (2020)
+Morphology evolution and dendrite growth in Li- and
+Publisher’s Note Springer Nature remains neutral with regard
+Mg-metal batteries: a potential dependent thermodynamic
+to jurisdictional claims in published maps and institutional
+and kinetic multiscale ab initio study. Electrochim Acta
+affiliations. 353:136493. https:// doi. org/ 10. 1016/J. ELECT ACTA. 2020. Springer Nature or its licensor (e.g. a society or other partner)
+14.
+
+Jäckle M, Groß A (2014) Microscopic properties of
+holds exclusive rights to this article under a publishing
+lithium, sodium, and magnesium battery anode materi-
+agreement with the author(s) or other rightsholder(s); author
+als related to possible dendrite growth. J Chem Phys
+self-archiving of the accepted manuscript version of this article
+141:174710. https:// doi. org/ 10. 1063/1. 49010 
+is solely governed by the terms of such publishing agreement
+15.
+
+Davidson R, Verma A, Santos D et al (2019) Formation
+and applicable law. of magnesium dendrites during electrodeposition. ACS
+Vol. : (0123456789)
+1
+
